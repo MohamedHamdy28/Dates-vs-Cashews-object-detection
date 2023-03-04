@@ -28,6 +28,9 @@ One day I was watching a movie and I wanted some snacks but I was too lazy to go
 
 I went to the market and bought some dates and cashews then I returned home and took some photos of them in different environments and light conditions.
 
+![IMG_20230302_153718](https://user-images.githubusercontent.com/71794972/222924117-e2fc970a-59cd-4903-a48b-110485d84a6a.jpg)
+![IMG_20230303_133244](https://user-images.githubusercontent.com/71794972/222924126-4706e4f9-332b-4a71-95af-894f3376cf2e.jpg)
+
 ## How did I annotate the data?
 
 I annotated the data by using a tool called roboflow then I added some preprocessing and augmentations to increase the size of the data:
@@ -46,6 +49,12 @@ For training a Faster RCNN model:
 - Imported the custom data
 - Trained and evaluated the model
 
+
+![image](https://user-images.githubusercontent.com/71794972/222924179-5b764029-4ab8-4027-b091-126584826a94.png)
+![image](https://user-images.githubusercontent.com/71794972/222924186-e76a3386-0c6c-44a4-933d-83217d9c52b5.png)
+![image](https://user-images.githubusercontent.com/71794972/222924220-82f29543-e169-4a0e-a727-9ff04e870306.png)
+
+
 # Training a YOLOv8 model:
 
 For training a YOLOv8 model:
@@ -53,6 +62,11 @@ For training a YOLOv8 model:
 - Imported a notebook from roboflow
 - Imported the custom data
 - Trained and evaluated the model
+
+![image](https://user-images.githubusercontent.com/71794972/222924237-b222037e-3290-42eb-988c-f1fee46d08b2.png)
+![image](https://user-images.githubusercontent.com/71794972/222924242-6d4be885-eb0e-4619-859d-0963ed88e328.png)
+![image](https://user-images.githubusercontent.com/71794972/222924251-80965285-de3c-44fc-9fd9-0a51463fdc02.png)
+
 
 # Evaluation of the model
 
